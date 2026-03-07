@@ -1,0 +1,1 @@
+item[strlen(item) - 1] = '\0';
